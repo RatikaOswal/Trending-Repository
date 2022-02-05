@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrendRepos</string>
+    <string name="no_connection">There is a problem with your internet connection.</string>
+
+    //error
+    <string name="connection_time_out">The connection has timed out. Please try again.</string>
+    <string name="auth_failure">Authorisation Failure.</string>
+    <string name="server_failure">Server Failure.</string>
+    <string name="network_failure">Network Failure.</string>
+    <string name="parsing_failure">Parsing Failure.</string>
+    <string name="connection_setting">Please check your connection setting.</string>
+
+</resources>
